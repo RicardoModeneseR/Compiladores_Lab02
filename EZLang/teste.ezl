@@ -1,0 +1,10 @@
+program exemplo1;
+var
+    int x;
+    bool y;
+begin
+    x := 5;
+    if x < 10 then
+        y := true;
+    end
+end
